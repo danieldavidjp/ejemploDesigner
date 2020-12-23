@@ -1,6 +1,14 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_CUENTAJGS_963": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+	},
+	"Queries": {
+	}
 }
